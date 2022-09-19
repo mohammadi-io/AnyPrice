@@ -35,7 +35,6 @@ class ExchangeRate(Base):
             return True
         return False
 
-
     # Down below is another implementation, it is good when we want to make computations over exchange rates
     # AED = Column(Float)
     # AFN = Column(Float)
